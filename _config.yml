@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author: 
   name             : "Mathieu Faure"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/capture.jpg"
   bio              : "I love **beetles**"
   location         : "iDiv"
   email            :
