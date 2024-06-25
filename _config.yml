@@ -329,6 +329,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-    header:
-      image: /assets/images/Banner.jpg
-      image_description: "Pitfall trap in Hullenzand"
+      header:
+        image: /assets/images/Banner.jpg
+        image_description: "Pitfall trap in Hullenzand"
